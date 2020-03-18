@@ -9,7 +9,8 @@ In this task, I implemented a simple HTTP client. The client should be able to G
 Bahman Sheikh
 
 # Programming Language
-- C
+- C (client.c)
+- Socket programming
 
 
 ## HTTP communication Basics:
